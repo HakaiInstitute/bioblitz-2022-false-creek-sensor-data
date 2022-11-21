@@ -1,7 +1,6 @@
 <div float="left">
 <img src=docs/logos/tula-logo.png />
 <img src=docs/logos/hakai-logo.png />
-<img src=docs/logos/sentinels-logo.png />
 </div>
 
 # bioblitz-2022-false-creek-sensor-data
