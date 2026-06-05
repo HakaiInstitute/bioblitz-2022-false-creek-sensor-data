@@ -20,3 +20,7 @@ Once retrieved from the water:
 
 - https://www.onsetcomp.com/products/data-loggers/mx2203/
 
+##Citation
+
+Whalen, M., & Earle, H. (2026). Sea surface temperature data in False Creek, British Columbia (v1.0). Hakai Institute. https://doi.org/10.21966/0g6d-pk30
+
